@@ -8,27 +8,27 @@ function NavBar() {
   const links = [
     {
       route: "/",
-      name: "Customer",
+      name: "Home",
       badgeCount: 0,
     },
     {
       route: "/",
-      name: "Changelog",
+      name: "About Us",
       badgeCount: 0,
     },
     {
       route: "/",
-      name: "Help",
+      name: "Events",
       badgeCount: 0,
     },
     {
       route: "/",
-      name: "Careers",
-      badgeCount: 4,
+      name: "Startup Support",
+      badgeCount: 0,
     },
     {
       route: "/",
-      name: "Pricing",
+      name: "Blog",
       badgeCount: 0,
     },
   ];
@@ -53,24 +53,14 @@ function NavBar() {
                 >
                   {item.name}
                 </p>
-                {item.badgeCount ? (
-                  <div className="h-8 w-8 rounded-full bg-primary flex justify-center items-center  font-semibold text-white">
-                    {item.badgeCount}
-                  </div>
-                ) : (
-                  <div />
-                )}
+
               </div>
             ))}
           </div>
           <div className="flex items-center gap-[20px] select-none">
-            <MainButton
-              text="Sign in"
-              width="contain"
-              className="bg-white border text-[#31373D] border-[#EDEEF0] hover:bg-white"
-            />
 
-            <MainButton text="Start for free" width="contain" />
+
+            <MainButton text="Contact Us" width="contain" className="border-none rounded-[12px]" />
           </div>
         </div>
       </div>
@@ -110,13 +100,7 @@ function NavBar() {
                   >
                     {item.name}
                   </p>
-                  {item.badgeCount ? (
-                    <div className="h-8 w-8 rounded-full bg-primary flex justify-center items-center  font-semibold text-white">
-                      {item.badgeCount}
-                    </div>
-                  ) : (
-                    <div />
-                  )}
+   
                 </div>
               ))}
 

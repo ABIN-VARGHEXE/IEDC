@@ -17,9 +17,9 @@ function AlertSection() {
       <div />
       <div className="inline-flex gap-3 text-white font-semibold text-[12px] md:text-[16px]">
         <div>
-          We&apos;ve raised a $23.5m Series A led by Redpoint Ventures!{" "}
+          Welcome to IEDC AJCE !{" "}
           <Link href="/" className="underline underline-offset-4 pl-3">
-            Read more
+            Explore
           </Link>
         </div>
       </div>

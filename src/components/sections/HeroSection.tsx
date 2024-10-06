@@ -26,12 +26,12 @@ function HeroSection() {
 
         <div className="flex gap-[12px] justify-center">
           <MainButton
-            text="Start for free"
+            text="Join IDEC"
             size="small"
             className="border-none rounded-[12px]"
           />
           <MainButton
-            text="Talk to sales"
+            text=" Blog/News"
             size="small"
             className="rounded-[12px] border-[1px] border-[#EDEEF0] bg-white hover:bg-white text-[#31373D]"
           />
