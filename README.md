@@ -21,7 +21,6 @@ npm install && npm run dev
 
 ## 🔓 Benefits
 - Mobile Responsiveness
-- Learn all the stack in one video
 
 
 
