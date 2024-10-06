@@ -1,12 +1,11 @@
 # IDEC
+  - ON PROGRESS
 
-ON PROGRESS
-
-# 🎨Figma: 
-https://www.figma.com/design/4T1MpexImPymvIl8WgRfuS/Attio---CRM-Landing-Page-%26-Mobile-Responsive-(Community)?node-id=0-1&node-type=canvas&t=HEmismHyP95BOjwM-0
+# Figma: 
+https://www.figma.com/design/4SsyUiDsCJuaXyCpPO7YCD/Attio---CRM-Landing-Page-%26-Mobile-Responsive-(Community)-(Copy)?node-id=432-257286&t=cPhaQTHo7i5nFxWO-1
 
 
-# ⛏️ Installation
+# Installation
 To follow along the tutorial. Change to the starter branch  after cloning the repo.
 Then install the npm packages & run
 ```bash
