@@ -18,9 +18,3 @@ npm install && npm run dev
 - Typescript
 - Shadcn
 - Tailwind
-
-## 🔓 Benefits
-- Mobile Responsiveness
-
-
-
